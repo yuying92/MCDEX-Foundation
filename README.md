@@ -134,6 +134,6 @@ The begin and end balances of the MCDEX foundation's financial report for the la
  </table>
 
 ### III. Liabilities
-| Accounts payable |  Amount | Notes   |
+| loans |  Amount | Notes   |
 | :----:         |  :----: | :----:  |
-|Zeppelin Audits Ltd|  $87,500    | Security Auditing Service |
+|team|  $87,500    | Security Auditing Service |
