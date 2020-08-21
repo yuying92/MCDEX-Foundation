@@ -5,12 +5,13 @@ The begin and end balances of the MCDEX foundation's financial report for the la
 
 | Assets | Begin Balance | End Balance | Income /Loss   |
 | :----:         | :-----:         | :----:          | :----:  |
-| MCB            | 25,000,000      | 25,000,000      |         |
+| MCB            |       | 25,000,000      |  25,000,000       |
 | ETH            |                 |                 |         |
 | BTC            |                 |                 |         |
 | USDT           |                 |                 |         |
-| USD            |                 |                 |         |end
+| USDC            |                 |                 |         |end
 
+Transaction Hash:0x66cb564e963faa8498cfee3a78e76bafc43c71c769ab2cde77ea67c29c382399
 
 ### II. Expenses 
 1.Usage of the MCDEX Foundation  Since Aug 01, 2020 until Aug 20, 2020:
@@ -110,9 +111,9 @@ The begin and end balances of the MCDEX foundation's financial report for the la
         <td>  </td>
     </tr>
     <tr>
-        <td rowspan="3">USD</td>
+        <td rowspan="3">USDC</td>
         <td>research and development</td>
-        <td> 87,500	</td>
+        <td> 	</td>
         <td>Security Auditing Service</td>
     </tr>
     <tr>
@@ -128,7 +129,7 @@ The begin and end balances of the MCDEX foundation's financial report for the la
     <tr>
         <td rowspan="1">Total</td>
         <td>  </td>
-        <td>87,500  </td>
+        <td>  </td>
         <td>  </td>
     </tr>
  </table>
@@ -136,4 +137,4 @@ The begin and end balances of the MCDEX foundation's financial report for the la
 ### III. Liabilities
 | loans |  Amount | Notes   |
 | :----:         |  :----: | :----:  |
-|team|  $87,500    | Security Auditing Service |
+||      |  |
